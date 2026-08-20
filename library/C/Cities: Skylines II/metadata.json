@@ -1,0 +1,8 @@
+{
+  "slug": "cities-skylines-ii",
+  "name": "Cities: Skylines II",
+  "iconUrl": "https://shared.fastly.steamstatic.com/community_assets/images/apps/949230/a183d04770e4cc9e6d615ad0f3301609fd23ac9c.ico",
+  "executables": {
+    "win32": ["Cities2.exe"]
+  }
+}
