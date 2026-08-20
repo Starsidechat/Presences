@@ -1,0 +1,8 @@
+{
+  "slug": "helldivers-2",
+  "name": "HELLDIVERS™ 2",
+  "iconUrl": "https://shared.fastly.steamstatic.com/community_assets/images/apps/553850/c3dff088e090f81d6e3d88eabbb67732647c69cf.jpg",
+  "executables": {
+    "win32": ["helldivers2.exe"]
+  }
+}
