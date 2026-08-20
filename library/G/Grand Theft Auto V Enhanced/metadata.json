@@ -1,0 +1,8 @@
+{
+  "slug": "gta-v-enhanced",
+  "name": "Grand Theft Auto V Enhanced",
+  "iconUrl": "https://shared.fastly.steamstatic.com/community_assets/images/apps/3240220/06b52e09e284542dd99eea45f9f85f68440dbcaf.ico",
+  "executables": {
+    "win32": ["GTA5_Enhanced.exe"]
+  }
+}
