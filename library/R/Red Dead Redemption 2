@@ -1,8 +1,0 @@
-{
-  "slug": "rdr-2",
-  "name": "Red Dead Redemption 2",
-  "iconUrl": "https://shared.fastly.steamstatic.com/community_assets/images/apps/1174180/5bf6edd7efb1110b457da905e7ac696c6c619ed1.ico",
-  "executables": {
-    "win32": ["RDR2.exe"]
-  }
-}
