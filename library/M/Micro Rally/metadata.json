@@ -1,0 +1,8 @@
+{
+  "slug": "micro-rally",
+  "name": "Micro Rally",
+  "iconUrl": "https://frogverse.co.uk/games/mrally/wordmark.png",
+  "executables": {
+    "win32": ["MicroRally (Mk1).exe"]
+  }
+}
