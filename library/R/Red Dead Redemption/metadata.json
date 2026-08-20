@@ -1,0 +1,8 @@
+{
+  "slug": "rdr",
+  "name": "Red Dead Redemption",
+  "iconUrl": "https://shared.fastly.steamstatic.com/community_assets/images/apps/2668510/13dcc8c3726aebd6431596f8d8adf5d6e3ead73d.ico",
+  "executables": {
+    "win32": ["RDR.exe"]
+  }
+}
