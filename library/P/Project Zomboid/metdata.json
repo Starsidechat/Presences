@@ -1,0 +1,10 @@
+{
+  "slug": "project-zomboid",
+  "name": "Project Zomboid",
+  "iconUrl": "https://shared.fastly.steamstatic.com/community_assets/images/apps/108600/b8036444b2a8889663bc232c142ac888e8353415.ico",
+  "executables": {
+    "win32": ["ProjectZomboid64.exe", "ProjectZomboid32.exe"],
+    "darwin": ["ProjectZomboid"],
+    "linux": ["ProjectZomboid64", "ProjectZomboid32"]
+  }
+}
