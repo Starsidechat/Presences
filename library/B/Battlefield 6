@@ -1,8 +1,0 @@
-{
-  "slug": "battlefield-6",
-  "name": "Battlefield™ 6",
-  "iconUrl": "https://shared.fastly.steamstatic.com/community_assets/images/apps/2807960/2a8344dc3c4b5d552cb0b6adec0f32fcd687308d.ico",
-  "executables": {
-    "win32": ["bf6.exe"]
-  }
-}
