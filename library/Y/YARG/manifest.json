@@ -1,0 +1,8 @@
+{
+  "slug": "yarg",
+  "name": "YARG",
+  "iconUrl": "https://yarg.in/favicon.png",
+  "executables": {
+    "win32": ["yarg.exe"]
+  }
+}
