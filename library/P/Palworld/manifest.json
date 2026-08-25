@@ -1,0 +1,8 @@
+{
+  "slug": "palworld",
+  "name": "Palworld",
+  "iconUrl": "https://shared.fastly.steamstatic.com/community_assets/images/apps/1623730/22a20bdaa6d782f60caa45eb7b02fc2411dcd988.ico",
+  "executables": {
+    "win32": ["Palworld.exe"]
+  }
+}
