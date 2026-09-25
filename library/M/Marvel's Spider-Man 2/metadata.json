@@ -1,0 +1,8 @@
+{
+  "slug": "marvels-spiderman-2",
+  "name": "Marvel's Spider-Man 2",
+  "iconUrl": "https://shared.fastly.steamstatic.com/community_assets/images/apps/2651280/caacb46c5fff724d6d0a0f3b4512df6347b3de7c.ico",
+  "executables": {
+    "win32": ["Spider-Man2.exe"]
+  }
+}
