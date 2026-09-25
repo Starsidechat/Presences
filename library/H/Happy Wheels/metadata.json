@@ -1,0 +1,8 @@
+{
+  "slug": "happy-wheels",
+  "name": "Happy Wheels",
+  "iconUrl": "https://shared.fastly.steamstatic.com/community_assets/images/apps/4705510/aac5738cc6684bf229191ee2304fc67dd5d5d68b.ico",
+  "executables": {
+    "win32": ["Happy Wheels.exe"]
+  }
+}
