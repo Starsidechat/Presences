@@ -1,0 +1,8 @@
+{
+  "slug": "ea-sports-fc-27",
+  "name": "EA SPORTS FC™ 27",
+  "iconUrl": "https://shared.fastly.steamstatic.com/community_assets/images/apps/4080220/1d5c19f224aa2a97edd4968b5fdf9934ac25b4f9.ico",
+  "executables": {
+    "win32": ["FC27.exe"]
+  }
+}
