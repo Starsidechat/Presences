@@ -1,0 +1,8 @@
+{
+  "slug": "borderlands-2",
+  "name": "Borderlands 2",
+  "iconUrl": "https://shared.fastly.steamstatic.com/community_assets/images/apps/49520/db87111cc1d7fd8fca26dea15ba2e91066b18465.ico",
+  "executables": {
+    "win32": ["Borderlands2.exe"]
+  }
+}
